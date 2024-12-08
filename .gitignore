@@ -1,3 +1,6 @@
+# The zip file is included.  Skip the expanded version.
+kenney_platformer-art-deluxe/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
